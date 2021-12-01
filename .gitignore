@@ -1,0 +1,15 @@
+# File
+test_gem.py
+tutorial.ipynb
+token.txt
+playground.py
+
+# Folder
+*__pycache__
+Features/
+Datasets/
+.env/
+wandb/
+vscode/
+Models/
+testing/

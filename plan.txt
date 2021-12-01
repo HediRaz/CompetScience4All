@@ -1,0 +1,36 @@
+Objectifs :   	- Train sur l'ordi du hub
+    		- Clean un peu le code pour utiliser W&B
+    		- Mettre en place W&B
+    		- Encoder les seeds pour être reproductible
+    		- Enregistrer les modèles
+    		- IMPORTANT : Refaire le 0.90 AUC
+		- Tester JIT
+
+
+Amélioration :  - RNN
+    		- Changer AGG en somme à la place de la moyenne
+    		- Combiner plusieurs réseaux
+    		- Aller vérifer tous les paramètres du code
+    		- Passer sur des nodges
+
+Paramètres:  - GIN : 	- nombres de couches
+						- taille de couches
+			 - GCN : 	- nombres de couches
+						- taille de couches
+			 - unsupervised_dataloader : 	- years
+			 								- min_degs
+			 - initial_embedding : 	- method
+			 						- initial_embedding_dim
+									- normalize
+			 - unsupervised_training_multiple :	- epochs
+												- batch_size
+												- iter_number
+												- max_neighbors
+												- k_init
+												- k_max
+												- starting_size
+												- optimizer
+												- learing rate
+												- add_diag
+			 - classifier : 
+			 - supervised_dataloader : 

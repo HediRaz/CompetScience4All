@@ -1,0 +1,6 @@
+Graph for year 2010 has 427201 edges
+Graph for year 2011 has 651997 edges
+Graph for year 2012 has 1042310 edges
+Graph for year 2013 has 1582114 edges
+Graph for year 2014 has 2278611 edges
+Graph for year 2017 has 7652945 edges
